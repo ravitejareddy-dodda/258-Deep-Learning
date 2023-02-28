@@ -10,7 +10,7 @@ https://github.com/ravitejareddy-dodda/258-Deep-Learning/blob/main/Text_classifi
 
 https://github.com/ravitejareddy-dodda/258-Deep-Learning/blob/main/Unet_learner_for_segmentation.ipynb
 
-Part 2: Link for White bix testing:
+Part 2: Link for White box testing:
 
 https://github.com/ravitejareddy-dodda/258-Deep-Learning/blob/main/Part2_Whitebox_Testing.ipynb
 
