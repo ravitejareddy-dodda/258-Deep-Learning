@@ -10,7 +10,7 @@ Wrote a colab pytorch lightening version.
 
 The colab for the above can be found here:
 
-https://github.com/ravitejareddy-dodda/258-Deep-Learning/blob/main/e_TensorFlow.ipynb
+https://github.com/ravitejareddy-dodda/258-Deep-Learning/blob/main/abcd_Non_Linear_Reg_and_PyTorch_Lightening.ipynb
 
 https://colab.research.google.com/drive/1L1Kuw0NbfY9kFlZVXIpkwtCFpo-g0dcc#scrollTo=h96p3bdtDl64
 
