@@ -27,6 +27,13 @@ https://github.com/ravitejareddy-dodda/258-Deep-Learning/blob/main/e_TensorFlow.
 
 -Use of functional api high level api  of tensorflow
 
+Colab for JAX:
+
+https://colab.research.google.com/drive/1Gvy0veTf1bpLYsELz9ACbKAQwVy_0YJu#scrollTo=ueYeUM7SRlCo
+
+https://github.com/ravitejareddy-dodda/258-Deep-Learning/blob/main/h_JAX.ipynb
+
+
 References: 
 
 https://medium.com/@curiousily/tensorflow-for-hackers-part-iv-neural-network-from-scratch-1a4f504dfa8
